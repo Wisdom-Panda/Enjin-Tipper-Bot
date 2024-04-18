@@ -13,7 +13,7 @@ Welcome to the NFT Tipper Bot, an open-source utility designed for the Enjin Blo
 - **Auto-minting**: Hassle-free minting of tokens.
 - **God Mode**: Airdrop pre-selected tokens to all registered users.
 - **Charging Module**: Allows people to airdrop their own tokens to your community (incomplete).
-... and so much more!
+- ... and so much more!
 
 ## Setup
 The bot is designed to be user-friendly and easy to set up for those with a basic understanding of JavaScript development.
